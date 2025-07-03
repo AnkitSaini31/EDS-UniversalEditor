@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/aem-Eds/:/",
-    "/content/aem-Eds/configuration:/.helix/config.json",
-    "/content/aem-Eds/metadata:/metadata.json"
+    "/content/EDS-UniversalEditor/:/",
+    "/content/EDS-UniversalEditor/configuration:/.helix/config.json",
+    "/content/EDS-UniversalEditor/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-Eds/"
+    "/content/EDS-UniversalEditor/"
   ]
 }
